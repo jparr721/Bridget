@@ -9,3 +9,14 @@
   font-size: 32px;
   font-family: 'Pacifico', cursive;
 }
+
+.deal-btn {
+	border-radius: 2;
+	border-color: whitesmoke;
+	background-color: transparent;
+	color: whitesmoke;
+}
+
+.deal-btn:hover {
+	border-color: transparent;
+}
