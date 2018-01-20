@@ -6,6 +6,7 @@ class Foods extends Component {
     return (
       <div>
         <Header headerText="Foods" />
+        <h1> Some testing code!</h1>
       </div>
     );
   }
