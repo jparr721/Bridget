@@ -1,2 +1,2 @@
-# Verbose
-✍️ For when you just can't think of the word.... let AI do it for you!
+# Bridget
+🌯 The food saving app of the (very-near) future! 
